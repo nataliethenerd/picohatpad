@@ -22,7 +22,7 @@ encoder_handler.pins = ((board.GP3, board.GP4, board.GP5, False),)
 
 keyboard.keymap = [[KC.MNXT, KC.MPRV]]
 
-encoder_handler.map = (((KC.VOLD, KC.VOLU, KC.MPLY),),)
+encoder_handler.map = (((KC.VOLU, KC.VOLD, KC.MPLY),),)
 
 if __name__ == "__main__":
     keyboard.go()
