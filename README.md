@@ -8,7 +8,11 @@ This kit aims to be a cheap (under $20aud including caps, keys, pico, pcbs, head
 
 # BOM
 2 X 20 stacked header pins
+
 2 X keyboard switches
+
 2 X WS2812B
+
 1 X EC11 encoder
+
 1 X Raspberry Pi Pico (I used a 1:1 clone that had USB C)
