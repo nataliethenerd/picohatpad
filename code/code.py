@@ -5,9 +5,18 @@ from kmk.scanners.keypad import KeysScanner
 from kmk.modules.encoder import EncoderHandler
 from kmk.keys import KC
 from kmk.extensions.media_keys import MediaKeys
+from kmk.extensions.RGB import RGB, AnimationModes
 
 keyboard = KMKKeyboard()
 
+underglow = RGB(
+    pixel_pin=board.GP10,
+    num_pixels=2,
+    val_limit=100,
+    val_default=25,
+    animation_mode=AnimationModes.RAINBOW,
+)
+keyboard.extensions.append(underglow)
 
 keyboard.matrix = KeysScanner(
     [
