@@ -1,6 +1,6 @@
 # Pico Hat Pad
 A Raspberry Pi Pico hat with two mechanical switches and a rotary encoder. Powered by KMK
-**Work in progress 
+
 
 This kit aims to be a cheap (under $20aud including caps, keys, pico, pcbs, head pins) macro pad and solder practice kit
 
@@ -16,3 +16,6 @@ This kit aims to be a cheap (under $20aud including caps, keys, pico, pcbs, head
 1 X EC11 encoder
 
 1 X Raspberry Pi Pico (I used a 1:1 clone that had USB C)
+
+You can by the kit here https://www.nataliethenerd.com/product-page/kit-pico-hat-macro-pad
+and an in depth guide can be found here https://www.nataliethenerd.com/picohatmacropad
