@@ -17,5 +17,8 @@ This kit aims to be a cheap (under $20aud including caps, keys, pico, pcbs, head
 
 1 X Raspberry Pi Pico (I used a 1:1 clone that had USB C)
 
+# Guide/Purchase kit
+
 You can by the kit here https://www.nataliethenerd.com/product-page/kit-pico-hat-macro-pad
+
 and an in depth guide can be found here https://www.nataliethenerd.com/picohatmacropad
